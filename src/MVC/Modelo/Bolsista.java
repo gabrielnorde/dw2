@@ -1,4 +1,4 @@
-package Modelo;
+package MVC.Modelo;
 
 public class Bolsista {
 	private int codigo;

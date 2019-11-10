@@ -1,4 +1,4 @@
-package Modelo;
+package MVC.Modelo;
 
 public class Usuario {
 	private int codigo;

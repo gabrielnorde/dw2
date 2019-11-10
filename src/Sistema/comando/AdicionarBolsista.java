@@ -5,7 +5,7 @@ import java.util.List;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-import MVC.dao.BolsistaDAO;
+import MVC.DAO.BolsistaDAO;
 import MVC.Modelo.Bolsista;
 
 public class AdicionarBolsista implements Comando {
